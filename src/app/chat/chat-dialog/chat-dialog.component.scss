@@ -21,3 +21,14 @@
 .message.from + .message.from {
 margin-top: -10px;
 }
+
+@media  (min-width:280px) and (max-width:480px){
+    .angular{
+        font-size: 22px; 
+        // text-align: center;
+        margin-top: 12px;
+    }
+    *{
+        margin-left: 12px;
+    }
+}
